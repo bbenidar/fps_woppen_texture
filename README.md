@@ -8,7 +8,8 @@ The extra frames can be used as sprinting extra frames.
 
 Download: https://drive.google.com/file/d/1bcJlwwe23fEPWPCiA8XAMfQwmezCfAmC/view?usp=sharing
 
-Animation: https://imgur.com/oJVlOjZ.gif
+
+<img src="https://github.com/bbenidar/fps_woppen_texture/blob/fdc89ad682d86a5123643f69625d909e5363e103/oJVlOjZ%20-%20Imgur.gif" style="max-width: 200px" >
 
 P-11 Aspartame
 This light pistol is partially made of plastic, and basically has no weight compared to Backstab, PCV or Colt Woodsman-type handguns. It uses low caliber ammo, from which 15 can fit in its clip. What this gun lacks in firepower makes up in accuracy and fire rate. Recoil is almost nonexistent for this little sweetness, so basically this thing is the triggerhappy peoples' wet dream.
